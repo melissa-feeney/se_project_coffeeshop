@@ -13,5 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
--Add additional images
--Add additional animations and/or hover effects
+*Add additional images
+*Add additional animations and/or hover effects
