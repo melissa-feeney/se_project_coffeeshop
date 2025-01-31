@@ -14,5 +14,5 @@ It was created using HTML and CSS, based on the design brief.
 
 ## Plan on improving the project
 
-1Add additional images.  
-2Add additional animations and/or hover effects.
+1. Add additional images
+2. Add additional animations and/or hover effects
