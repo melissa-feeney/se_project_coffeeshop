@@ -22,13 +22,13 @@
 }
 
 .about__title {
-  font-family: "Inter", "Arial", sans-serif;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
   color: #fff;
-  flex: display;
+  display: flex;
   flex-wrap: wrap;
   max-width: 251px;
   padding: 0;
